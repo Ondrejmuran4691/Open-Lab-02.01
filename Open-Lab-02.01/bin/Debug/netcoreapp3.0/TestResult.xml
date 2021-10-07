@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Open-Lab-02.01.dll" fullname="C:/Users/onkom/source/repos/Open-Lab-02.01/Open-Lab-02.01/bin/Debug/netcoreapp3.0/Open-Lab-02.01.dll" testcasecount="2" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.104432" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="3" random-seed="1631556808">
+  <command-line><![CDATA[C:\Users\onkom\source\repos\Open-Lab-02.01\Open-Lab-02.01\bin\Debug\netcoreapp3.0\Open-Lab-02.01.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1003" name="Open-Lab-02.01.dll" fullname="C:/Users/onkom/source/repos/Open-Lab-02.01/Open-Lab-02.01/bin/Debug/netcoreapp3.0/Open-Lab-02.01.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.104432" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.12.0.0" clr-version="3.1.19" os-version="Microsoft Windows 10.0.19042" platform="Win32NT" cwd="C:\Users\onkom\source\repos\Open-Lab-02.01\Open-Lab-02.01\bin\Debug\netcoreapp3.0" machine-name="DESKTOP-7OQAPDJ" user="onkom" user-domain="DESKTOP-7OQAPDJ" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\onkom\source\repos\Open-Lab-02.01\Open-Lab-02.01\bin\Debug\netcoreapp3.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9672" />
+      <property name="_APPDOMAIN" value="Open-Lab-02.01" />
+    </properties>
+    <test-suite type="TestSuite" id="1004" name="Open_Lab_02" fullname="Open_Lab_02" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.081401" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <test-suite type="TestSuite" id="1005" name="_01" fullname="Open_Lab_02._01" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.080253" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-suite type="TestFixture" id="1000" name="Tests" fullname="Open_Lab_02._01.Tests" classname="Open_Lab_02._01.Tests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.074307" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-case id="1001" name="Create5Numbers" fullname="Open_Lab_02._01.Tests.Create5Numbers" methodname="Create5Numbers" classname="Open_Lab_02._01.Tests" runstate="Runnable" seed="1993321764" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.045717" asserts="2" />
+          <test-case id="1002" name="GetSecond" fullname="Open_Lab_02._01.Tests.GetSecond" methodname="GetSecond" classname="Open_Lab_02._01.Tests" runstate="Runnable" seed="795196047" result="Passed" start-time="2021-10-07 18:10:53Z" end-time="2021-10-07 18:10:53Z" duration="0.003511" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
